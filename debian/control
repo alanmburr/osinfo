@@ -1,0 +1,16 @@
+Source: osinfo
+Section: unknown
+Priority: optional
+Maintainer: Alan M. Burr <alanburr25@gmail.com>
+Build-Depends: debhelper-compat (= 13), debhelper (>= 9)
+Standards-Version: 4.5.0
+Homepage: https://github.com/wackyblackie/osinfo
+#Vcs-Browser: https://salsa.debian.org/debian/osinfo
+#Vcs-Git: https://salsa.debian.org/debian/osinfo.git
+Rules-Requires-Root: no
+
+Package: osinfo
+Architecture: any
+Depends: bash, zenity
+Description: OSinfo is a bash+zenity app that shows details about your OS
+ OSinfo is inspired by neofetch and screenfetch, it is a bash+zenity app that shows information about your computer/OS.
