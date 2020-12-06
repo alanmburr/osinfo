@@ -1,0 +1,19 @@
+Package: osinfo
+Architecture: amd64
+Version: 1.0-1ubuntu1
+Priority: optional
+Section: misc
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@list.ubuntu.com>
+Original-Maintainer: Alan M. Burr <alanburr25@gmail.com>
+Installed-Size: 28
+Depends: bash (>= 4.4), zenity (>= 3.32.0)
+Filename: amd64/osinfo_1.0-1ubuntu1_amd64.deb
+Size: 4144
+MD5sum: b109bcc9f9b2e7f2cccc0461969de54c
+SHA1: 61f9119becb6568218a483f52d2a951d81056961
+SHA256: 203108cde60d3e835997171401d57aaab46e944f04a1f620967c511d3c813f69
+SHA512: dd0db71bfdd700427724da2c555daf48c4477c73130cc1f373e42575bb76be2eb672da08318ad69918572798f8ad4221e46b8c8cbd647e247e8ca64fb5bde598
+Homepage: https://github.com/wackyblackie/osinfo
+Description: This proram, OSinfo shows details about your OS.
+ Much like Neofetch, OSinfo shows information about your computer/OS.
+
