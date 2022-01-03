@@ -1,6 +1,6 @@
 #!/usr/bin/env /usr/bin/bash
 
-#Copyright (C) 2020-2021  Alan Burr
+#Copyright (C) 2020-2022  Alan Burr
 #
 #This program is free software: you can redistribute it and/or modify
 #it under the terms of the GNU General Public License as published by
